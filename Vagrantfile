@@ -1,4 +1,4 @@
-LINUX_INSTANCES=2
+LINUX_INSTANCES=1
 WINDOWS_INSTANCES=0
 Vagrant.configure("2") do |config|
     
